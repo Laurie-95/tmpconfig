@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: coffeemachine
+ 
+greeting:
+  name: Dakota
+  coffee: ${greeting.name} is dringing Cafe Cereza
+build:
+  version : "2.0"
+
+account:
+  message: "Welcome to Coffee QA"
+  details :
+    name : "bob"
+    email : "bfrhjbfzhebfhjbf@fnjenfje.fr"
+  phone : 
+   - 0695631289
+   - 0823569456
