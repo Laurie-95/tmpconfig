@@ -23,7 +23,7 @@ account:
   message: "Welcome to Coffee Prod"
   details :
     name : "bob"
-    email : "bfrhjbfzhebfhjbf@fnjenfje.fr"
+    email : "{cipher}572642c0c7e8f8f77372023d7ee0a07afbaf57e4a55c6e1ec34774231a0da7d9"
   phone : 
    - 0695631289
    - 0823569456
