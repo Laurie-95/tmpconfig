@@ -28,4 +28,3 @@ account:
    - 0695631289
    - 0823569456
 
-eureka.client.serviceUrl.defaultZone: http://localhost:8070/eurekacoffee/
